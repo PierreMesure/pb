@@ -45,7 +45,7 @@ group :development do
   gem 'spring'
 end
 
-gem 'mysql2', '~> 0.4.10'
+gem 'pg', '~> 0.21.0'
 gem 'globalize'
 gem 'globalize-accessors'
 gem 'prawn'
